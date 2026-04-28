@@ -72,7 +72,7 @@ coffeehub/
 ⚙️ How to Run the Project
 
 1️⃣ Clone the repository:
-"git clone https://github.com/your-username/coffeehub.git"
+"https://github.com/Balajik-rgb/coffee-hub"
 
 2️⃣ Open the folder in VS Code or any editor
 
